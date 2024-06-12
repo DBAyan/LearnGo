@@ -1,0 +1,18 @@
+2023/05/03 01:05:00 2023-05-03 01:05:00 DEBUG: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[13] 测试日志123
+2023/05/03 01:05:00 2023-05-03 01:05:00 INFO: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[14] info 测试日志
+2023/05/03 01:05:11 2023-05-03 01:05:11 DEBUG: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[13] 测试日志123
+2023/05/03 01:05:11 2023-05-03 01:05:11 INFO: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[14] info 测试日志
+2023/05/03 01:10:04 2023-05-03 01:10:04 DEBUG: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[13] 测试日志123
+2023/05/03 01:10:04 2023-05-03 01:10:04 INFO: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[14] info 测试日志
+2023/05/03 13:39:25 DEBUG: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[14] 测试日志123
+2023/05/03 13:39:25 INFO: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[15] info 测试日志
+2023/05/03 13:39:45 DEBUG: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[14] 测试日志123
+2023/05/03 13:39:45 INFO: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[15] info 测试日志
+2023/05/03 13:41:04 DEBUG: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[14] 测试日志123
+2023/05/03 13:41:04 INFO: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[15] info 测试日志
+2023/05/03 13:41:04 WARN: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[16] 测试日志warn
+2023/05/03 13:41:04 ERROE: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[17] 测试日志error
+2023/05/04 11:26:19 DEBUG: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[14] 测试日志123
+2023/05/04 11:26:19 INFO: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[15] info 测试日志
+2023/05/04 11:26:19 WARN: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[16] 测试日志warn
+2023/05/04 11:26:19 ERROE: (/Users/yanhaihang/Desktop/go/LearnGo/learn_self/mypath/testMylog.go)[17] 测试日志error
